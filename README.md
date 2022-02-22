@@ -1,7 +1,6 @@
 # lit-review
 literature review pipeline
-![Screen Shot 2021-11-30 at 10 38 17 AM](https://media.github.boozallencsn.com/user/10509/files/a583bf54-2a59-4793-a871-4ee2ee64b780)
-
+<img width="838" alt="image" src="https://user-images.githubusercontent.com/99741809/155190530-1cfa92e0-ffa3-4b65-ab08-8b175b5f588b.png">
 
 ## code details 
 * Code Notebook: Variant Prioritization Lit Review Pipeline.ipynb
